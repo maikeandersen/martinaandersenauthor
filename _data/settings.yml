@@ -1,11 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
+title: Martina Andersen Autorin
+description: An author website with a blog
+header_text: Martina Andersen
+footer_text: Copyright 2020 Maike Andersen
 header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
+items: []
