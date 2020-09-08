@@ -4,13 +4,13 @@ title: Bücher
 permalink: https://martinaandersenauthor.netlify.app/bücher
 date: 2020-09-08T12:11:21.830Z
 show: true
-header_feature_image: ../uploads/cover-trial-12.jpg
+header_feature_image: ../uploads/background.jpg
 ---
-![](../uploads/cover-trial-12.jpg)
+
 
 ### **Das Debut Buch von Autorin Martina Andersen ist jetzt erhältlich!**
 
-
+![](../uploads/cover-trial-12.jpg)
 
 Drei unterschiedliche Welten treffen aufeinander in diesem neuen Urban Fantasy Roman
 
