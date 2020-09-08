@@ -6,8 +6,6 @@ date: 2020-09-08T12:11:21.830Z
 show: true
 header_feature_image: ../uploads/background.jpg
 ---
-
-
 ### **Das Debut Buch von Autorin Martina Andersen ist jetzt erhältlich!**
 
 ![](../uploads/cover-trial-12.jpg)
@@ -25,3 +23,11 @@ Drei unterschiedliche Welten treffen aufeinander.
 Mia erlebt, dass es auch außergewöhnliche Wesen auf dieser Erde gibt.
 
 Können Mia, Zag und Jarno diese Welt vor der großen Enttarnung schützen?
+
+
+
+*Das Buch ist erhältlich bei:*
+
+**Amazon** 
+
+**Tolino**
