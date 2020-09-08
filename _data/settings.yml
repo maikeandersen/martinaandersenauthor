@@ -7,6 +7,6 @@ bannerheight: 20vmax
 logo: ../uploads/logo-website.jpg
 favicon: ../uploads/logo-website.jpg
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
 items: []
