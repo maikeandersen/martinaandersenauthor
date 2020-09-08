@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bücher
-permalink: https://martinaandersenauthor.netlify.app/bücher
+permalink: bücher
 date: 2020-09-08T12:11:21.830Z
 show: true
 header_feature_image: ../uploads/background.jpg
