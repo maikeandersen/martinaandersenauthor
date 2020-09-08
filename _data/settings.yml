@@ -9,12 +9,4 @@ favicon: ../uploads/logo-website.jpg
 gridlayout: false
 fixednavbar: true
 upzoom: true
-items:
-  - name: Bücher
-    siteurl: https://martinaandersenauthor.netlify.app/bücher
-  - name: Blog
-    siteurl: https://martinaandersenauthor.netlify.app/blog
-  - name: Martina
-    siteurl: https://martinaandersenauthor.netlify.app/martina
-  - name: Kontakt
-    siteurl: https://martinaandersenauthor.netlify.app/kontak
+items: []
