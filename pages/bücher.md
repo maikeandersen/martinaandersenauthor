@@ -26,7 +26,7 @@ Können Mia, Zag und Jarno diese Welt vor der großen Enttarnung schützen?
 
 
 
-*Das Buch ist erhältlich bei:*
+*Das Buch ist erhältlich auf:*
 
 **Amazon** 
 
