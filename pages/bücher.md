@@ -3,7 +3,7 @@ layout: page
 title: Bücher
 permalink: https://martinaandersenauthor.netlify.app/bücher
 date: 2020-09-08T12:11:21.830Z
-show: false
+show: true
 header_feature_image: ../uploads/cover-trial-12.jpg
 ---
 ![](../uploads/cover-trial-12.jpg)
