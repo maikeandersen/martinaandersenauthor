@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Maike Andersen
 header_feature_image: ../uploads/placeholder4.jpg
 bannerheight: 20vmax
 logo: ../uploads/logo-website.jpg
-favicon: /uploads/favicon.ico
+favicon: ../uploads/logo-website.jpg
 gridlayout: false
 fixednavbar: false
 upzoom: true
