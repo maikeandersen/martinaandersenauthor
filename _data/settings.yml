@@ -10,8 +10,6 @@ gridlayout: false
 fixednavbar: true
 upzoom: true
 items:
-  - name: Home
-    siteurl: https://martinaandersenauthor.netlify.app/home
   - name: Bücher
     siteurl: https://martinaandersenauthor.netlify.app/bücher
   - name: Blog
